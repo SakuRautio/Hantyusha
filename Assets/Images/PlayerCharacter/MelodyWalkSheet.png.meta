@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: 21138c004af9f6b4b9a6257ba8233f2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3699861219876571118
+    second: MelodyWalkSheet_0
+  - first:
+      213: 7473719604005647205
+    second: MelodyWalkSheet_1
+  - first:
+      213: 9191064821884608670
+    second: MelodyWalkSheet_2
+  - first:
+      213: 5268052961981294624
+    second: MelodyWalkSheet_3
+  - first:
+      213: 8324024269654908529
+    second: MelodyWalkSheet_4
+  - first:
+      213: -9023661836283672533
+    second: MelodyWalkSheet_5
+  - first:
+      213: 1591961562991077117
+    second: MelodyWalkSheet_6
+  - first:
+      213: -3418615831012950444
+    second: MelodyWalkSheet_7
+  - first:
+      213: 574145873843736450
+    second: MelodyWalkSheet_8
+  - first:
+      213: 6842423093648724541
+    second: MelodyWalkSheet_9
+  - first:
+      213: 9135663342401010720
+    second: MelodyWalkSheet_10
+  - first:
+      213: -4841762582495892360
+    second: MelodyWalkSheet_11
+  - first:
+      213: 4226407149767434601
+    second: MelodyWalkSheet_12
+  - first:
+      213: -8521756228786058239
+    second: MelodyWalkSheet_13
+  - first:
+      213: 2470991582045765894
+    second: MelodyWalkSheet_14
+  - first:
+      213: -817928496742387438
+    second: MelodyWalkSheet_15
+  - first:
+      213: 3814105156025941467
+    second: MelodyWalkSheet_16
+  - first:
+      213: -5227103188716719136
+    second: MelodyWalkSheet_17
+  - first:
+      213: -6366821606207815583
+    second: MelodyWalkSheet_18
+  - first:
+      213: 438482687139689060
+    second: MelodyWalkSheet_19
+  - first:
+      213: -154763882890583825
+    second: MelodyWalkSheet_20
+  - first:
+      213: 8898762692921331599
+    second: MelodyWalkSheet_21
+  - first:
+      213: -6884522436771930991
+    second: MelodyWalkSheet_22
+  - first:
+      213: 7641986678558739388
+    second: MelodyWalkSheet_23
+  - first:
+      213: 1226782039985245328
+    second: MelodyWalkSheet_24
+  - first:
+      213: -2709478239468690124
+    second: MelodyWalkSheet_25
+  - first:
+      213: 6538698277125192913
+    second: MelodyWalkSheet_26
+  - first:
+      213: -182646528261561228
+    second: MelodyWalkSheet_27
+  - first:
+      213: 7286583996211365424
+    second: MelodyWalkSheet_28
+  - first:
+      213: 7455349562662387733
+    second: MelodyWalkSheet_29
+  - first:
+      213: -2347127744615856856
+    second: MelodyWalkSheet_30
+  - first:
+      213: -4771771156701503856
+    second: MelodyWalkSheet_31
+  - first:
+      213: -2627136371943413129
+    second: MelodyWalkSheet_32
+  - first:
+      213: 929019613422114258
+    second: MelodyWalkSheet_33
+  - first:
+      213: -8750149501231274871
+    second: MelodyWalkSheet_34
+  - first:
+      213: -8962039515022581170
+    second: MelodyWalkSheet_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MelodyWalkSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 590
+        width: 57
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218730fb2d377acc0800000000000000
+      internalID: -3699861219876571118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 601
+        width: 57
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56331a3e16cf7b760800000000000000
+      internalID: 7473719604005647205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 602
+        width: 57
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90650852c83d8f70800000000000000
+      internalID: 9191064821884608670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 601
+        width: 57
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e6d0f142eb1940800000000000000
+      internalID: 5268052961981294624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 603
+        width: 57
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ed28e78ffd48370800000000000000
+      internalID: 8324024269654908529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 601
+        width: 57
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28001b8e5385c280800000000000000
+      internalID: -9023661836283672533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_6
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 602
+        width: 57
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6a8226b98c71610800000000000000
+      internalID: 1591961562991077117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 601
+        width: 57
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e32f8a303ae80d0800000000000000
+      internalID: -3418615831012950444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_8
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 603
+        width: 57
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f46bb51a6c7f700800000000000000
+      internalID: 574145873843736450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 57
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d329cdb0d8b25fe50800000000000000
+      internalID: 6842423093648724541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 410
+        width: 57
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cbe57386568ce70800000000000000
+      internalID: 9135663342401010720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 409
+        width: 57
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ced8f759a9eccb0800000000000000
+      internalID: -4841762582495892360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 410
+        width: 57
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612f0609e637aa30800000000000000
+      internalID: 4226407149767434601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 411
+        width: 57
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0cb03cd3acb980800000000000000
+      internalID: -8521756228786058239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 410
+        width: 57
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60181d280c9ba4220800000000000000
+      internalID: 2470991582045765894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_15
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 411
+        width: 57
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2113004ad5226a4f0800000000000000
+      internalID: -817928496742387438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_16
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 410
+        width: 57
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd79e07e6c6ee430800000000000000
+      internalID: 3814105156025941467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_17
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 411
+        width: 57
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e37a3028599577b0800000000000000
+      internalID: -5227103188716719136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 60
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16083b56b7184a7a0800000000000000
+      internalID: -6366821606207815583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 218
+        width: 61
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462be174eadc51600800000000000000
+      internalID: 438482687139689060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 61
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe02f38811b2addf0800000000000000
+      internalID: -154763882890583825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 218
+        width: 61
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f03148581ce7b70800000000000000
+      internalID: 8898762692921331599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 218
+        width: 61
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c900cc1534570a0800000000000000
+      internalID: -6884522436771930991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_23
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 218
+        width: 61
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbc2c9256acd0a60800000000000000
+      internalID: 7641986678558739388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_24
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 218
+        width: 61
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c462ef3c7660110800000000000000
+      internalID: 1226782039985245328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_25
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 218
+        width: 61
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43561d985eff56ad0800000000000000
+      internalID: -2709478239468690124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 217
+        width: 61
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc7185807f1eba50800000000000000
+      internalID: 6538698277125192913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 59
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474e28343fb177df0800000000000000
+      internalID: -182646528261561228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 26
+        width: 61
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0368930e9852f1560800000000000000
+      internalID: 7286583996211365424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 26
+        width: 61
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100bd65de8b67760800000000000000
+      internalID: 7455349562662387733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 26
+        width: 61
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82545bb70c35d6fd0800000000000000
+      internalID: -2347127744615856856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_31
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 25
+        width: 61
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1a573a6347cdb0800000000000000
+      internalID: -4771771156701503856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 26
+        width: 61
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aedcd83698a8bd0800000000000000
+      internalID: -2627136371943413129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_33
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 26
+        width: 59
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5556f8a6a84ec00800000000000000
+      internalID: 929019613422114258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_34
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 26
+        width: 61
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9846c8f8369319680800000000000000
+      internalID: -8750149501231274871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MelodyWalkSheet_35
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 25
+        width: 61
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a0144b8070a380800000000000000
+      internalID: -8962039515022581170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
